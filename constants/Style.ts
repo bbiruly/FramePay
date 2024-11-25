@@ -58,4 +58,9 @@ export const defaultStyles = StyleSheet.create({
     borderRadius: 16,
     gap: 20,
   },
+  hell:{
+    flex:1,
+    alignItems:'center',
+    justifyContent:'center'
+  }
 });
